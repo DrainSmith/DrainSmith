@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hello, I'm J. Scott Zumwalt
+
+You can find my RPG work on DriveThruRPG here: https://legacy.drivethrurpg.com/browse.php?author=J.%20Scott%20Zumwalt
 
 <!--
 **DrainSmith/DrainSmith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
